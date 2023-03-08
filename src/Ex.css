@@ -1,0 +1,244 @@
+#hh{
+    color:rgb(1, 255, 170);
+    text-shadow:2px 2px 8px #ffffff;
+    font:garamond;
+    font-size: 60px;
+}
+#body1{
+    background-image: url("https://cdn.wallpapersafari.com/78/27/MaJZNB.jpg");
+    background-size: cover;
+}
+#home{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/562/519/713/video-game-league-of-legends-ezreal-league-of-legends-gangplank-league-of-legends-wallpaper-preview.jpg");
+}
+#ip{
+    padding-left: 15px;
+    height:25px;
+    width:50%;
+    border-radius: 15px;
+    font-size:16px;
+    border:2px solid black;
+}
+#ipp{
+    padding-left: 15px;
+    height:25px;
+    width:50%;
+    border-radius: 18px;
+    font-size:15px;
+    border:2px solid black;
+}
+#h{
+    font-size:70px;
+    color:aquamarine;
+}
+#Post{
+    font-size:50px;
+    color:rgb(0, 255, 242);
+    text-shadow: 0 0 3px #000000, 0 0 5px #ff0015
+}
+#Put{
+    font-size:50px;
+    color:rgb(0, 255, 85);
+    text-shadow: 0 0 3px #000000, 0 0 5px #ff0000
+}
+#Del{
+    font-size:50px;
+    color:red;
+    text-shadow: 0 0 3px #000000, 0 0 5px #ff009d
+}
+#Get{
+    font-size:50px;
+    color:salmon;
+    text-shadow: 0 0 3px #000000, 0 0 5px #00ffb3
+}
+#l{
+    margin-left:10px;
+    font-size: 25px;
+    font-style:bold;
+    color:rgb(0, 0, 0);
+}
+.smt{
+    border-radius:13px;
+    width:80px;
+    height:30px;
+    border:1px solid green;
+    background-color:rgb(12, 245, 59);
+    font-size: 20px;
+}
+.smt1{
+    border-radius:13px;
+    width:80px;
+    height:30px;
+    border:none;
+    background-color:red;
+    font-size: 20px;
+}
+.smt2{
+    border-radius:15px;
+    width:80px;
+    height:30px;
+    border:1px skyblue;
+    background-color:salmon;
+    font-size: 20px;
+}
+.smt4{
+    border-radius:15px;
+    width:150px;
+    height:30px;
+    border:1px skyblue;
+    background-color:rgb(0, 89, 255);
+    font-size: 19px;
+}
+.smt3{
+    border-radius:15px;
+    width:80px;
+    height:30px;
+    border:1px rgb(0, 255, 55);
+    background-color:rgb(0, 255, 132);
+    font-size: 20px;
+}
+#method{
+    height:35px;
+    width:80px;
+    font-size:25px;
+    border-radius:15px;
+}
+.bimg{
+    background-image: url("https://wallpapercave.com/wp/wp10523122.jpg");
+    height:100vh;
+    background-size:cover;
+    
+}
+.bimg1{
+    background-image:url("bimg1.png");
+    height:104vh;
+    margin-top:-30px;
+    background-size:cover;
+}
+.bimg5{
+    background-image:url("bimg5.png");
+    height:100vh;
+    margin-top:-90px;
+    background-size:cover;
+}
+.bimg2{
+    background-image:url("bimg2.png");
+    height:104vh;
+    margin-top:-30px;
+    background-size:cover;
+}
+#boxP{
+    padding-top:10px;
+    margin-top:70px;
+    margin-left:585px;
+    height:500px;
+    opacity:0.9;
+    width:400px;
+    background-color:rgb(208, 212, 216);
+    border-radius:35px 5px;
+    border:3px solid black;
+}
+#boxQ{
+    padding-top:10px;
+    margin-top:90px;
+    margin-left:585px;
+    height:500px;
+    width:400px;
+    opacity:0.8;
+    background-color:rgb(155, 163, 171);
+    border-radius:35px 5px;
+    border:3px solid black;
+}
+#crud{
+    font-size:35px;
+    height:80px;
+    width:250px;
+    margin-left:300px;
+    cursor:pointer;
+    background-color:rgb(6, 255, 234);
+    font-family:Didon;
+    border:none;
+    border-radius:30px;
+}
+#crud1{
+    font-size:35px;
+    height:80px;
+    width:250px;
+    margin-right:430px;
+    float:right;
+    cursor:pointer;
+    margin-left:60px;
+    background-color:rgb(6, 255, 234);
+    font-family:Didon;
+    border:none;
+    border-radius:30px;
+}
+input:hover{
+    opacity:0.8;
+}
+.logout{
+    margin-right:30px;
+    float:right;
+    height:50px;
+    width:50px;
+    background-image:url("https://cdn-icons-png.flaticon.com/128/4400/4400483.png");
+    background-size:cover;
+}
+.back{
+    margin-left:30px;
+    margin-top:20px;
+    float:left;
+    height:50px;
+    width:50px;
+    background-image:url("https://cdn-icons-png.flaticon.com/128/9743/9743379.png");
+    background-size:cover;
+}
+#tbl{
+    margin-top:100px;
+    background-color:white;
+    margin-left:540px;
+}
+.tbimg{
+    background-image:url("tbimg.png");
+    background-size:cover;
+    margin-top:-100px;
+    height:113.4vh;
+}
+
+
+
+
+/* // constructor(props){
+    //   super(props);
+    //   this.state={
+    //     gid:"",
+    //     gname:"",
+    //     genre:"",
+    //     gprice:""
+    //   };
+    // }
+  
+    // handleIdChange=(event)=>{
+    //   this.setState({gid:event.target.value});
+    // };
+    // handleNameChange=(event)=>{
+    //   this.setState({gname:event.target.value});
+    // };
+    // handleGenreChange=(event)=>{
+    //   this.setState({genre:event.target.value});
+    // };
+    // handleGPriceChange=(event)=>{
+    //   this.setState({gprice:event.target.value});
+    // };
+  
+    // handleSubmit=(event)=>{
+    //   event.preventDefault();
+    //   const data={
+    //     gid:this.state.gid,
+    //     gname:this.state.gname,
+    //     genre:this.state.genre,
+    //     gprice:this.state.gprice,
+    //   };
+  
+    //   axios.post('http://127.0.0.1:8080/add1Details',data)
+    // }; */
